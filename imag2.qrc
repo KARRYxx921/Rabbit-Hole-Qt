@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sucai2">
+        <file>前台素材.png</file>
+        <file>嘤嘤嘤.png</file>
+        <file>背景1.jpg</file>
+        <file>背景2.jpg</file>
+        <file>前台素材2.png</file>
+    </qresource>
+</RCC>
